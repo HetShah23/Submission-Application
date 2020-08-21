@@ -1,0 +1,33 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Backhand of the PROJECT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "gridfs-stream": "^1.1.1",
+    "jsonwebtoken": "*",
+    "method-override": "^3.0.0",
+    "mongodb": "^3.5.7",
+    "mongoose": "*",
+    "multer": "^1.4.2",
+    "multer-gridfs-storage": "^4.1.0",
+    "nodemon": "^2.0.4",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "keywords": [
+    "PROJECT",
+    "backhand",
+    "node"
+  ],
+  "author": "Het Shah",
+  "license": "ISC"
+}
