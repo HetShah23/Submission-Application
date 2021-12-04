@@ -1,5 +1,4 @@
 # Online Submission Application 
-***Note: Project is still in progress.***<br>
 **Submission application** created in complete **MEAN Stack** with **authentication using JWT**. Main motive of the project is to mannage day to day submission more easily and hassle-free.<br>
 Application is completely **Responsive** and **protected with Auth Guards**
 
